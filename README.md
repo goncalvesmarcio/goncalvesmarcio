@@ -21,6 +21,9 @@ Criação de modelo de predição de preços de locação de imóveis médios no
 ### [Projeto 2: Projeto aplicado de Análise de Dados](https://github.com/goncalvesmarcio/projeto-BI-northwind-traders)
 Criação indicadores de performance a partir dos dados disponíveis, da empresa fictícia de varejo "Northwind Traders".
 
+### [Projeto 3: Projeto aplicado de Análise de Dados](https://github.com/goncalvesmarcio/projeto-bank-churn)
+Binary Classification Regression Machine Learning modelling to help predict bank clients that will churn. 
+
 ## Contato
 
 - **Email:**  goncalvesmarcio.adv@gmail.com
