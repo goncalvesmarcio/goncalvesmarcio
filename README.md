@@ -15,13 +15,13 @@ Meu foco de estudos tem como base as ferramentas Python, SQL, Microsoft Power BI
 
 ## Projetos
 
-### [Projeto 1: Projeto aplicado de Ciências de Dados](https://github.com/goncalvesmarcio/projeto-DC-airbnb-rio)
+### [Projeto 1: Projeto aplicado de Ciência de Dados](https://github.com/goncalvesmarcio/projeto-DC-airbnb-rio)
 Criação de modelo de predição de preços de locação de imóveis médios no aplicativo Airbnb, na Cidade do Rio de Janeiro.
 
 ### [Projeto 2: Projeto aplicado de Análise de Dados](https://github.com/goncalvesmarcio/projeto-BI-northwind-traders)
 Criação indicadores de performance a partir dos dados disponíveis, da empresa fictícia de varejo "Northwind Traders".
 
-### [Projeto 3: Projeto aplicado de Análise de Dados](https://github.com/goncalvesmarcio/projeto-bank-churn)
+### [Projeto 3: Projeto aplicado de Ciência de Dados](https://github.com/goncalvesmarcio/projeto-bank-churn)
 Binary Classification Regression Machine Learning modelling to help predict bank clients that will churn. 
 
 ## Contato
