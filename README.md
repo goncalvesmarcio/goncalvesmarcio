@@ -27,7 +27,7 @@ Binary Classification Regression Machine Learning modelling to help predict bank
 ## Contato
 
 - **Email:**  goncalvesmarcio.adv@gmail.com
-- **LinkedIn:** [Marcio Gonçalves] (https://linkedin.com/in/goncalvesmarcio03)
+- **LinkedIn:** [Marcio Gonçalves](https://linkedin.com/in/goncalvesmarcio03)
 
 ---
 
