@@ -24,6 +24,9 @@ Análise de dados a partir dos dados disponíveis, da empresa fictícia de varej
 ### [Projeto 3: Projeto aplicado de Ciência de Dados](https://github.com/goncalvesmarcio/projeto-bank-churn)
 Binary Classification Regression Machine Learning modelling to help predict bank clients that will churn. 
 
+### [Projeto 4: Projeto aplicado de Controladoria_Juridica](https://github.com/goncalvesmarcio/projeto-controladoria-juridica)
+Desenvolvimento de um Dashboard para Controladoria Jurídica a partir de dados ficíticios de um escritório de advocacia, gerados por meio de Python.
+
 ## Contato
 
 - **Email:**  goncalvesmarcio.adv@gmail.com
